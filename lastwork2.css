@@ -1,0 +1,32 @@
+.line{
+    padding-right: 12px;
+    padding-left: 12px;
+    font-weight: 700;
+}
+.btn-line{
+    padding: 10px;
+}
+.page-btn{
+    padding: 8px 15.5px;
+    border-radius: 0;
+}
+.page-btn-1{
+    background-color: var(--primary-300);
+}
+.page-btn-10{
+    padding: 8px 10.5px;
+    font-weight: 400;
+}
+.page-btn-point{
+    padding: 8px 12.5px;
+    font-weight: 400;
+}
+.footer-text{
+    text-align: center;
+    padding-bottom: 64px;
+    padding-top: 32px;
+}
+.footer-line{
+    border-bottom: 1px solid var(--neutral-300);
+    width: 1296px;
+}
